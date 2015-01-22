@@ -2,7 +2,6 @@
 using System.Web;
 using System.Web.Security;
 using DotNetOpenAuth.AspNet;
-using Microsoft.AspNet.Membership.OpenAuth;
 
 namespace WebSite.Account
 {
